@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - master
-
+    paths-ignore:
+      - 'README.md'
+      - 'docs/**'
 env:
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
