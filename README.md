@@ -50,6 +50,10 @@ I built this tool to bridge that gap. It lets you download the drum tracks direc
 - **Batch Processing**: Paste a list of URLs to sequentially download multiple tabs automatically.
 - **BPM Override**: Set a custom tempo for playback and notation directly from the settings panel.
 
+## Community Forks
+
+- **[Guitar Chord Downloader](https://github.com/herbkk/SongsterrDrumTabDownloader)** by [herbkk](https://github.com/herbkk) - Adds support for downloading guitar chord charts. Independently maintained.
+
 ## Getting Started
 
 ### Local Setup
